@@ -1,0 +1,21 @@
+.Gibson-Regular { 
+	font-family: Gibson-Regular;
+	font-weight: normal;
+	font-style: normal;
+}
+.Gibson-SemiBold { 
+	font-family: Gibson-SemiBold;
+	font-weight: normal;
+	font-style: normal;
+}
+.Gibson-Light { 
+	font-family: Gibson-Light;
+	font-weight: normal;
+	font-style: normal;
+}
+
+h1, h2, h3, h4, h5 { 
+	font-family: Gibson-Light; 
+	font-weight: normal; 
+	font-style: normal; 
+}
