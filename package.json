@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "name": "microsites",
+  "name": "destv2",
   "private": true,
   "devDependencies": {
     "autoprefixer": "^8.2.0",
